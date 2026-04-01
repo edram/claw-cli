@@ -1,0 +1,12 @@
+[
+    {
+        "branch": "claude-code-rev",
+        "source": "https://github.com/oboard/claude-code-rev.git",
+        "source_branch": "main"
+    },
+    {
+        "branch": "free-code",
+        "source": "https://github.com/paoloanzn/free-code.git",
+        "source_branch": "main"
+    }
+]
