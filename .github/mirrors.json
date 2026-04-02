@@ -5,11 +5,6 @@
         "source_branch": "main"
     },
     {
-        "branch": "free-code",
-        "source": "https://github.com/paoloanzn/free-code.git",
-        "source_branch": "main"
-    },
-    {
         "branch": "claude-code-best",
         "source": "https://github.com/claude-code-best/claude-code.git",
         "source_branch": "main"
